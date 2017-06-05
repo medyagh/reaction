@@ -1,4 +1,4 @@
-FROM reactioncommerce/base:v1.3.1
+FROM medyagh/reaction-base
 
 # Default environment variables
 ENV ROOT_URL "http://localhost"
